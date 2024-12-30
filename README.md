@@ -1,7 +1,46 @@
-- 👋 Hi, I’m @itsbharatj Bharat Jain
-- 👀 I’m interested in Computer Vision and Building Systems
-- 💞️ I’m looking to collaborate on Projects 
-- 📫 How to reach me : bharat.jain@plaksha.edu.in
+# Hi there, I'm Bharat 👋
+
+Welcome to my GitHub profile! I'm passionate about building projects and learning about deep learning. Below you'll find a bit more about me and some of the projects I work on.
+
+## 🔧 Technologies & Tools
+
+- **Languages**: Python, Java, C++
+- **Framworks**: PyTorch, TensorFlow, Numpy, Pandas, OpenCV, MediaPipe 
+- **Databases**: SQLite, MySQL 
+- **Tools & Platforms**: Git, Docker, Kubernetes, AWS, GCP
+- **Other**: Machine Learning, Data Analysis, Deep Learning
+
+## 📈 GitHub Stats
+
+![Bharat's GitHub stats]([![GitHub Streak](https://streak-stats.demolab.com?user=itsbharatj&theme=highcontrast&mode=weekly)](https://git.io/streak-stats))
+
+
+## 🚀 Projects
+
+Here are a few projects I've been working on:
+
+- **[UNet Implementation on Caravan Dataset]([https://github.com/itsbharatj/project-repo](https://github.com/itsbharatj/Caravan-Segmentation))**: Implemented the UNet Architecture in PyTorch on the 
+Caravan Dataset hosted on Kaggle
+- **[AI Powered Smart Cataloguing]([https://github.com/itsbharatj/another-project-repo](https://github.com/itsbharatj/AI-Powered-Smart-Cataloguing-))**: Get all the produdcts in the shelf by just an Image. Fine Tuned YOLOv11 on the SKU-110k dataset and Used Gemini API for OCR Detection 
+- **[More Projects](https://github.com/itsbharatj?tab=repositories)**: Check out more of my repositories here.
+
+<!---
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<> [Title of the Blog Post](https://itsbharatj.dev/blog/title-of-the-blog-post)
+<> [Another Blog Post](https://itsbharatj.dev/blog/another-blog-post)
+<!-- BLOG-POST-LIST:END -->
+---> 
+
+## 🔗 Connect with me
+
+Feel free to reach out if you want to collaborate on any project or just want to say hi!
+
+- [LinkedIn](https://www.linkedin.com/in/itsbharatj/)
+- [Twitter](https://twitter.com/itsbharatj)
+- Email: [itsbharatj@example.com](mailto:itsbharatj@example.com)
+
+Thanks for visiting my profile! Have a great day! 😊
   
 <!---
 itsbharatj/itsbharatj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
