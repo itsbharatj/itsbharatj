@@ -26,10 +26,8 @@ Caravan Dataset hosted on Kaggle
 <!---
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-<> [Title of the Blog Post](https://itsbharatj.dev/blog/title-of-the-blog-post)
-<> [Another Blog Post](https://itsbharatj.dev/blog/another-blog-post)
+
 <!-- BLOG-POST-LIST:END -->
----> 
 
 ## 🔗 Connect with me
 
