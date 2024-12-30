@@ -18,9 +18,8 @@ Welcome to my GitHub profile! I'm passionate about building projects and learnin
 
 Here are a few projects I've been working on:
 
-- **[UNet Implementation on Caravan Dataset]([https://github.com/itsbharatj/project-repo](https://github.com/itsbharatj/Caravan-Segmentation))**: Implemented the UNet Architecture in PyTorch on the 
-Caravan Dataset hosted on Kaggle
-- **[AI Powered Smart Cataloguing]([https://github.com/itsbharatj/another-project-repo](https://github.com/itsbharatj/AI-Powered-Smart-Cataloguing-))**: Get all the produdcts in the shelf by just an Image. Fine Tuned YOLOv11 on the SKU-110k dataset and Used Gemini API for OCR Detection 
+- **[UNet Implementation on Caravan Dataset](https://github.com/itsbharatj/Caravan-Segmentation)**: Implemented the UNet Architecture in PyTorch on the Caravan Dataset hosted on Kaggle
+- **[AI Powered Smart Cataloguing](https://github.com/itsbharatj/AI-Powered-Smart-Cataloguing-)**: Get all the products in the shelf by just an Image. Fine-tuned YOLOv11 on the SKU-110k dataset and used Gemini API for OCR Detection
 - **[More Projects](https://github.com/itsbharatj?tab=repositories)**: Check out more of my repositories here.
 
 <!---
