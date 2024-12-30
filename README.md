@@ -34,7 +34,7 @@ Feel free to reach out if you want to collaborate on any project or just want to
 
 - [LinkedIn](https://www.linkedin.com/in/itsbharatj/)
 - [Twitter](https://twitter.com/itsbharatj)
-- Email: [itsbharatj@example.com](mailto:itsbharatj@example.com)
+- Email: [bharat.jain@plaksha.edu.in](mailto:bharat.jain@plaksha.edu.in)
 
 Thanks for visiting my profile! Have a great day! 😊
   
